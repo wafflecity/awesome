@@ -81,3 +81,4 @@
 - GraphQL
 - Bots
 - [WordtoHTML](https://wordtohtml.net/)
+- [QRCode Read and Generate Web API](http://goqr.me/api/doc/)
