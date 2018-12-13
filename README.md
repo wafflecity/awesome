@@ -40,6 +40,8 @@
 - Service Workers
 - Progressive Web Apps
 - Sass
+- Cordova
+  - [CordovaCall](https://github.com/WebsiteBeaver/CordovaCall) `Cordova CallKit & ConnectionService plugin for iOS/Android that displays the native call UI for VOIP apps`
 
 ### Back-End Development
 
