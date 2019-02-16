@@ -187,6 +187,7 @@
     - [FastCV](https://developer.qualcomm.com/software/fastcv-sdk) `Algorithm` `SDK`
     - [OpenCV](http://opencv.org/) `Algorithm` `SDK`
     - [LibSVM](https://github.com/cjlin1/libsvm) `SVM`
+    - [EasyPR](https://github.com/liuruoze/EasyPR) `LPR`
 - Deep Learning
     - [TensorFlow](https://github.com/tensorflow/tensorflow)
     - [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) `DeepLearning` `C++`
