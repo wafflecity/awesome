@@ -313,3 +313,4 @@
 ### IOT
 
 - [mongoose](https://mongoose-os.com/) `IoT firmware development framework`
+- [cloudmqtt](https://www.cloudmqtt.com/) `Hosted message broker for the Internet of Things`
