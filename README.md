@@ -18,6 +18,7 @@
 - [IOT](#iot)
 - [Open Data](#open-data)
 - [Tools](#tools)
+- [Testing](#testing)
 
 ### Platforms
 
@@ -327,3 +328,6 @@
 
 ### Tools
 - [UI Movement](https://uimovement.com/) `UI designs`
+
+### Testing
+- [cypress](https://www.cypress.io/) `Fast, easy and reliable testing for anything that runs in a browser.`
