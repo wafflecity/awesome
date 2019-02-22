@@ -22,6 +22,10 @@
 
 ### Platforms
 
+- Vision
+   - [Trueface](https://trueface.ai/) `Facial Recognation`
+   - [Rekognition](https://aws.amazon.com/tw/rekognition/) `Facial Recognation`
+
 ### Programming Languages
 
 - C/C++
