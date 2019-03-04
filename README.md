@@ -71,6 +71,7 @@
         - [解读Nodejs多核处理模块cluster](http://blog.fens.me/nodejs-core-cluster/)
         - [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
     - Tooles & Libraries
+        - [cylon](https://github.com/hybridgroup/cylon/) `IOT`
         - [nvm-windows](https://github.com/coreybutler/nvm-windows) `NVM`
         - [node-gyp](https://github.com/nodejs/node-gyp) `Addon`
         - [forever](https://github.com/foreverjs/forever) `Monitor`
@@ -83,6 +84,7 @@
         - [i18n-2](https://github.com/jeresig/i18n-node-2) `Express` `i18n`
         - [sharp](https://github.com/lovell/sharp) `ImageProcessing`
         - [gm](http://aheckmann.github.io/gm/) `ImageProcessing`
+        - [geolib](https://github.com/manuelbieh/Geolib/tree/master) `Geolocation`
         - [lwip](https://github.com/EyalAr/lwip) `ImageProcessing`
         - [natural](https://github.com/NaturalNode/natural) `DeepLearning`
         - [nodemailer](https://github.com/nodemailer/nodemailer) `E-Mail`
@@ -108,6 +110,7 @@
         - [Simple OAuth2](https://github.com/lelylan/simple-oauth2) OAuth2.0 Client 端的函式庫 `OAuth`
         - [OAuth2 Server/Provider](https://github.com/oauthjs/node-oauth2-server) OAuth2.0 Server `OAuth`
         - [socketio-jwt](https://github.com/auth0/socketio-jwt) jwt驗證Socket.io`Socketio` `JWT`
+        - [receipt-lottery-taiwan](https://github.com/zlargon/receipt-lottery-taiwan) `Invoice`
         - [momentjs](http://momentjs.com/) `Time` 
         - [lodash](https://lodash.com/) `Utility` 
         - [videojs](http://videojs.com/) `Stream` 
