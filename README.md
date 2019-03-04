@@ -123,6 +123,7 @@
         - [x-ray](https://github.com/lapwinglabs/x-ray) `爬蟲`
         - [osmosis](https://github.com/rchipka/node-osmosis) `爬蟲`
         - [agenda](https://github.com/agenda/agenda) `工作排程`
+        - [huginn](https://github.com/huginn/huginn) `工作排程`
 
 ### Front-End Development
 
