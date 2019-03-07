@@ -332,6 +332,7 @@
 - [Johnny-Five](https://github.com/rwaldron/johnny-five) `Framework` `JavaScript` 
 - [Gobot](https://github.com/hybridgroup/gobot) `Framework` `GoLang`  
 - [Serverless](https://github.com/serverless/serverless) `Framework` `Build web, mobile and IoT applications with serverless architectures`
+- [Homebridge](https://github.com/nfarina/homebridge) `HomeKit`
 
 ### Open Data
 - [氣象開放資料平台](https://opendata.cwb.gov.tw/index)
