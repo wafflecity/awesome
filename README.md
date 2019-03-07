@@ -329,8 +329,9 @@
 
 - [mongoose](https://mongoose-os.com/) `IoT firmware development framework`
 - [cloudmqtt](https://www.cloudmqtt.com/) `Hosted message broker for the Internet of Things`
-- [Johnny-Five](https://github.com/rwaldron/johnny-five) `Framework` `JavaScript` [![GitHub stars](https://img.shields.io/github/stars/rwaldron/johnny-five.svg?style=social&label=Star)](https://github.com/rwaldron/johnny-five) 
-- [Gobot](https://github.com/hybridgroup/gobot) `Framework` `GoLang` [![GitHub stars](https://img.shields.io/github/stars/hybridgroup/gobot.svg?style=social&label=Star)](https://github.com/hybridgroup/gobot) 
+- [Johnny-Five](https://github.com/rwaldron/johnny-five) `Framework` `JavaScript` 
+- [Gobot](https://github.com/hybridgroup/gobot) `Framework` `GoLang`  
+- [Serverless](https://github.com/serverless/serverless) `Framework` `Build web, mobile and IoT applications with serverless architectures`
 
 ### Open Data
 - [氣象開放資料平台](https://opendata.cwb.gov.tw/index)
