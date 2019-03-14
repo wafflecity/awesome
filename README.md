@@ -341,6 +341,8 @@
 
 ### Tools
 - [UI Movement](https://uimovement.com/) `UI designs`
+- [API Blueprint](https://apiblueprint.org/) `API` `Document`
+- [Swagger](https://swagger.io/) `API` `Document`
 
 ### Testing
 - [cypress](https://www.cypress.io/) `Fast, easy and reliable testing for anything that runs in a browser.`
