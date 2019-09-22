@@ -346,3 +346,5 @@
 
 ### Testing
 - [cypress](https://www.cypress.io/) `Fast, easy and reliable testing for anything that runs in a browser.`
+- [appium](https://github.com/appium/appium) `Automation for iOS, Android, and Windows Apps`
+- [robotframework](https://github.com/robotframework/robotframework) `Generic automation framework for acceptance testing and RPA`
